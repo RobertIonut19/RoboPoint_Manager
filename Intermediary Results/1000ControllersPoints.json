@@ -1,0 +1,302 @@
+[
+  {
+    "round_number": 1,
+    "points_generated": 9022,
+    "points_consumed": 29760
+  },
+  {
+    "round_number": 2,
+    "points_generated": 8119,
+    "points_consumed": 29580
+  },
+  {
+    "round_number": 3,
+    "points_generated": 7389,
+    "points_consumed": 28760
+  },
+  {
+    "round_number": 4,
+    "points_generated": 6770,
+    "points_consumed": 28650
+  },
+  {
+    "round_number": 5,
+    "points_generated": 6274,
+    "points_consumed": 28400
+  },
+  {
+    "round_number": 6,
+    "points_generated": 5875,
+    "points_consumed": 28240
+  },
+  {
+    "round_number": 7,
+    "points_generated": 5460,
+    "points_consumed": 29230
+  },
+  {
+    "round_number": 8,
+    "points_generated": 5205,
+    "points_consumed": 28980
+  },
+  {
+    "round_number": 9,
+    "points_generated": 5028,
+    "points_consumed": 28950
+  },
+  {
+    "round_number": 10,
+    "points_generated": 4876,
+    "points_consumed": 29540
+  },
+  {
+    "round_number": 11,
+    "points_generated": 4791,
+    "points_consumed": 30020
+  },
+  {
+    "round_number": 12,
+    "points_generated": 4742,
+    "points_consumed": 30700
+  },
+  {
+    "round_number": 13,
+    "points_generated": 4719,
+    "points_consumed": 31380
+  },
+  {
+    "round_number": 14,
+    "points_generated": 4809,
+    "points_consumed": 31020
+  },
+  {
+    "round_number": 15,
+    "points_generated": 4858,
+    "points_consumed": 31780
+  },
+  {
+    "round_number": 16,
+    "points_generated": 4994,
+    "points_consumed": 31950
+  },
+  {
+    "round_number": 17,
+    "points_generated": 5092,
+    "points_consumed": 32500
+  },
+  {
+    "round_number": 18,
+    "points_generated": 5191,
+    "points_consumed": 33520
+  },
+  {
+    "round_number": 19,
+    "points_generated": 5366,
+    "points_consumed": 33850
+  },
+  {
+    "round_number": 20,
+    "points_generated": 5566,
+    "points_consumed": 34500
+  },
+  {
+    "round_number": 21,
+    "points_generated": 5754,
+    "points_consumed": 35170
+  },
+  {
+    "round_number": 22,
+    "points_generated": 5922,
+    "points_consumed": 36120
+  },
+  {
+    "round_number": 23,
+    "points_generated": 6176,
+    "points_consumed": 36350
+  },
+  {
+    "round_number": 24,
+    "points_generated": 6345,
+    "points_consumed": 37760
+  },
+  {
+    "round_number": 25,
+    "points_generated": 6614,
+    "points_consumed": 38070
+  },
+  {
+    "round_number": 26,
+    "points_generated": 6852,
+    "points_consumed": 38580
+  },
+  {
+    "round_number": 27,
+    "points_generated": 7057,
+    "points_consumed": 39930
+  },
+  {
+    "round_number": 28,
+    "points_generated": 7316,
+    "points_consumed": 40480
+  },
+  {
+    "round_number": 29,
+    "points_generated": 7600,
+    "points_consumed": 40860
+  },
+  {
+    "round_number": 30,
+    "points_generated": 7879,
+    "points_consumed": 41200
+  },
+  {
+    "round_number": 31,
+    "points_generated": 8137,
+    "points_consumed": 38260
+  },
+  {
+    "round_number": 32,
+    "points_generated": 8090,
+    "points_consumed": 38030
+  },
+  {
+    "round_number": 33,
+    "points_generated": 8031,
+    "points_consumed": 37780
+  },
+  {
+    "round_number": 34,
+    "points_generated": 7934,
+    "points_consumed": 37530
+  },
+  {
+    "round_number": 35,
+    "points_generated": 7877,
+    "points_consumed": 36670
+  },
+  {
+    "round_number": 36,
+    "points_generated": 7820,
+    "points_consumed": 36000
+  },
+  {
+    "round_number": 37,
+    "points_generated": 7656,
+    "points_consumed": 36110
+  },
+  {
+    "round_number": 38,
+    "points_generated": 7493,
+    "points_consumed": 35970
+  },
+  {
+    "round_number": 39,
+    "points_generated": 7373,
+    "points_consumed": 35390
+  },
+  {
+    "round_number": 40,
+    "points_generated": 7190,
+    "points_consumed": 35290
+  },
+  {
+    "round_number": 41,
+    "points_generated": 7062,
+    "points_consumed": 34260
+  },
+  {
+    "round_number": 42,
+    "points_generated": 6868,
+    "points_consumed": 34000
+  },
+  {
+    "round_number": 43,
+    "points_generated": 6700,
+    "points_consumed": 33390
+  },
+  {
+    "round_number": 44,
+    "points_generated": 6499,
+    "points_consumed": 32920
+  },
+  {
+    "round_number": 45,
+    "points_generated": 6292,
+    "points_consumed": 32330
+  },
+  {
+    "round_number": 46,
+    "points_generated": 6079,
+    "points_consumed": 31780
+  },
+  {
+    "round_number": 47,
+    "points_generated": 5902,
+    "points_consumed": 30810
+  },
+  {
+    "round_number": 48,
+    "points_generated": 5650,
+    "points_consumed": 30830
+  },
+  {
+    "round_number": 49,
+    "points_generated": 5454,
+    "points_consumed": 29810
+  },
+  {
+    "round_number": 50,
+    "points_generated": 5225,
+    "points_consumed": 29310
+  },
+  {
+    "round_number": 51,
+    "points_generated": 5002,
+    "points_consumed": 28690
+  },
+  {
+    "round_number": 52,
+    "points_generated": 4774,
+    "points_consumed": 28000
+  },
+  {
+    "round_number": 53,
+    "points_generated": 4539,
+    "points_consumed": 27500
+  },
+  {
+    "round_number": 54,
+    "points_generated": 4304,
+    "points_consumed": 26990
+  },
+  {
+    "round_number": 55,
+    "points_generated": 4066,
+    "points_consumed": 26640
+  },
+  {
+    "round_number": 56,
+    "points_generated": 3823,
+    "points_consumed": 25970
+  },
+  {
+    "round_number": 57,
+    "points_generated": 3551,
+    "points_consumed": 25780
+  },
+  {
+    "round_number": 58,
+    "points_generated": 3316,
+    "points_consumed": 24720
+  },
+  {
+    "round_number": 59,
+    "points_generated": 3053,
+    "points_consumed": 24150
+  },
+  {
+    "round_number": 60,
+    "points_generated": 2802,
+    "points_consumed": 23460
+  }
+]
