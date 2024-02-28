@@ -27,6 +27,11 @@ public class RobotController {
         return Optional.ofNullable(robotService.findRobotById(id));
     }
 
+    @GetMapping("/points")
+    public Long findOverallRobotPoints() {
+        return robotService.findOverallRobotPoints();
+    }
+
     @PostMapping
     public RobotEntity saveRobot(@RequestBody RobotEntity robot) {
         return robotService.saveRobot(robot);

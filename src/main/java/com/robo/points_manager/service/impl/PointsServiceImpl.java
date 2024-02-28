@@ -5,6 +5,8 @@ import com.robo.points_manager.service.PointsService;
 import com.robo.points_manager.repository.PointsRepository;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class PointsServiceImpl implements PointsService {
 
@@ -26,5 +28,10 @@ public class PointsServiceImpl implements PointsService {
     @Override
     public PointsEntity updatePoints(Long roundNumber, PointsEntity points) {
         return pointsRepository.save(points);
+    }
+
+    @Override
+    public List<PointsEntity> findAllPoints() {
+        return pointsRepository.findAll();
     }
 }

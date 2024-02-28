@@ -9,4 +9,6 @@ public interface PointsService {
     void deletePoints(Long roundNumber);
     PointsEntity updatePoints(Long roundNumber, PointsEntity points);
 
+    List<PointsEntity> findAllPoints();
+
 }

@@ -10,4 +10,5 @@ public interface RobotService {
     RobotEntity saveRobot(RobotEntity robot);
     RobotEntity updateRobot(Long id, RobotEntity robot);
     void deleteRobot(Long id);
+    Long findOverallRobotPoints();
 }

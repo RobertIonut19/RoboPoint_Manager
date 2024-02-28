@@ -4,6 +4,8 @@ import com.robo.points_manager.entity.PointsEntity;
 import com.robo.points_manager.service.PointsService;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
+
 @RestController
 @RequestMapping("/points")
 public class PointsController {
@@ -12,6 +14,11 @@ public class PointsController {
 
     public PointsController(PointsService pointsService) {
         this.pointsService = pointsService;
+    }
+
+    @GetMapping
+    public List<PointsEntity> findAllPoints() {
+        return pointsService.findAllPoints();
     }
 
     @PostMapping
