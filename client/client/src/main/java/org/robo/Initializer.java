@@ -8,13 +8,17 @@ import org.json.JSONObject;
 
 public class Initializer {
 
-    private int robotsCount = 10_000;
-    private int controllerCount = 0;
-    private int roundsNumber = 60;
-    public Initializer() {
-        //initializeRobots();
-        //initializePoints();
-        //initializeControllers();
+    private int robotsCount;
+    private int controllerCount;
+    private int roundsNumber;
+    public Initializer(int controllerCount) {
+        this.robotsCount = 10_000;
+        this.controllerCount = controllerCount;
+        this.roundsNumber = 60;
+
+        initializeRobots();
+        initializePoints();
+        initializeControllers();
     }
     public void initializeRobots() {
         int id = 1;
